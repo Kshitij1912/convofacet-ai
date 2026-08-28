@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+
+# Optional Machine Learning packages for Qwen 0.5B local LLM scoring
+# (Uncomment below if deploying to an environment with at least 2GB of RAM/GPU support)
+# torch
+# transformers
+# accelerate
